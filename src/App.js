@@ -4,7 +4,7 @@ import './App.css';
 
 class App extends Component {
   render() {
-    return <div className="App">我是react-jenkins1234</div>;
+    return <div className="App">我是react-jenkins78910</div>;
   }
 }
 
